@@ -1,0 +1,16 @@
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\bin\Debug\net5.0\ejercicio_20.exe
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\bin\Debug\net5.0\ejercicio_20.deps.json
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\bin\Debug\net5.0\ejercicio_20.runtimeconfig.json
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\bin\Debug\net5.0\ejercicio_20.runtimeconfig.dev.json
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\bin\Debug\net5.0\ejercicio_20.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\bin\Debug\net5.0\ref\ejercicio_20.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\bin\Debug\net5.0\ejercicio_20.pdb
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.csprojAssemblyReference.cache
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.AssemblyInfoInputs.cache
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.AssemblyInfo.cs
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.csproj.CoreCompileInputs.cache
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ref\ejercicio_20.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.pdb
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_20\obj\Debug\net5.0\ejercicio_20.genruntimeconfig.cache

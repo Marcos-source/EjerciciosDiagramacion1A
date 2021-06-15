@@ -1,0 +1,64 @@
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\bin\Debug\net5.0\EjerciciosCSharp.exe
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\bin\Debug\net5.0\EjerciciosCSharp.deps.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.dev.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\bin\Debug\net5.0\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\bin\Debug\net5.0\ref\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\bin\Debug\net5.0\EjerciciosCSharp.pdb
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.csprojAssemblyReference.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfoInputs.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfo.cs
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\ref\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.pdb
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\obj\Debug\net5.0\EjerciciosCSharp.genruntimeconfig.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\bin\Debug\net5.0\EjerciciosCSharp.exe
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\bin\Debug\net5.0\EjerciciosCSharp.deps.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.dev.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\bin\Debug\net5.0\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\bin\Debug\net5.0\ref\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\bin\Debug\net5.0\EjerciciosCSharp.pdb
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.csprojAssemblyReference.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfoInputs.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfo.cs
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\ref\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.pdb
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\Ejercicio 1\obj\Debug\net5.0\EjerciciosCSharp.genruntimeconfig.cache
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.exe
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.deps.json
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.json
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.dev.json
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\ref\EjerciciosCSharp.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.pdb
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.csprojAssemblyReference.cache
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfoInputs.cache
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfo.cs
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\ref\EjerciciosCSharp.dll
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.pdb
+\\DESKTOP-7J38BPC\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.genruntimeconfig.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.exe
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.deps.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.runtimeconfig.dev.json
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\ref\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\bin\Debug\net5.0\EjerciciosCSharp.pdb
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.csprojAssemblyReference.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfoInputs.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.AssemblyInfo.cs
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\ref\EjerciciosCSharp.dll
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.pdb
+C:\D\Archivos importantes\Colegio\Diagramacion\EjerciciosCSharp\ejercicio_1\obj\Debug\net5.0\EjerciciosCSharp.genruntimeconfig.cache
